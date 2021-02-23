@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948531754046",
+    "project_id": "proyecto-arduino-3c6db",
+    "storage_bucket": "proyecto-arduino-3c6db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948531754046:android:ea80eb842a98037a008d6f",
+        "android_client_info": {
+          "package_name": "com.example.pantalla_principal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948531754046-v5mvopeuuiqp64s74dhied0m2u9i6orb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6_oXYag51cCSUrDUnQtEmn1CyvZpgIz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948531754046-v5mvopeuuiqp64s74dhied0m2u9i6orb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
